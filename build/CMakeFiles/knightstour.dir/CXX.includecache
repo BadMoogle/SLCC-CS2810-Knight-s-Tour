@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dharper/projects/KnightsTour/chessboard.h
+knight.h
+/home/dharper/projects/KnightsTour/knight.h
+
+/home/dharper/projects/KnightsTour/knight.h
+
+/home/dharper/projects/KnightsTour/main.cpp
+iostream
+-
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+knight.h
+/home/dharper/projects/KnightsTour/knight.h
+chessboard.h
+/home/dharper/projects/KnightsTour/chessboard.h
+

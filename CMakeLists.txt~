@@ -1,0 +1,4 @@
+project(knightstour)
+
+add_executable(knightstour chessboard.cpp chessboard.cpp knight.cpp main.cpp)
+

@@ -1,0 +1,1 @@
+/usr/bin/c++   -g    CMakeFiles/knightstour.dir/chessboard.cpp.o CMakeFiles/knightstour.dir/knight.cpp.o CMakeFiles/knightstour.dir/main.cpp.o  -o knightstour -rdynamic 
